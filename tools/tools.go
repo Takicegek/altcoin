@@ -11,8 +11,8 @@ import (
 	"github.com/toqueteos/altcoin/types"
 
 	"github.com/btcsuite/btcutil/base58"
-	"github.com/btcsuite/btcd/btcec"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/PointCoin/btcec"
+	"github.com/PointCoin/btcwire"
 )
 
 func Sign(msg []byte, privkey *btcec.PrivateKey) (*btcec.Signature, error) {
