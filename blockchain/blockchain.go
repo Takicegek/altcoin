@@ -11,10 +11,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/toqueteos/altcoin/config"
-	"github.com/toqueteos/altcoin/tools"
-	"github.com/toqueteos/altcoin/transaction"
-	"github.com/toqueteos/altcoin/types"
+	"github.com/Takicegek/altcoin/config"
+	"github.com/Takicegek/altcoin/tools"
+	"github.com/Takicegek/altcoin/transaction"
+	"github.com/Takicegek/altcoin/types"
 )
 
 var (

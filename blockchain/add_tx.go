@@ -1,9 +1,9 @@
 package blockchain
 
 import (
-	"github.com/toqueteos/altcoin/server"
-	"github.com/toqueteos/altcoin/tools"
-	"github.com/toqueteos/altcoin/types"
+	"github.com/Takicegek/altcoin/server"
+	"github.com/Takicegek/altcoin/tools"
+	"github.com/Takicegek/altcoin/types"
 )
 
 // Attempt to add a new transaction into the pool.

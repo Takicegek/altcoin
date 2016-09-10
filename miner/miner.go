@@ -3,7 +3,7 @@ package miner
 import (
 	"time"
 
-	"github.com/toqueteos/altcoin/types"
+	"github.com/Takicegek/altcoin/types"
 )
 
 type Work struct {

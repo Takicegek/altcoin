@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/toqueteos/altcoin/config"
-	"github.com/toqueteos/altcoin/types"
+	"github.com/Takicegek/altcoin/config"
+	"github.com/Takicegek/altcoin/types"
 
 	"github.com/btcsuite/btcutil/base58"
 	"github.com/PointCoin/btcec"

@@ -1,7 +1,7 @@
 package gui
 
 import (
-	"github.com/toqueteos/altcoin/config"
+	"github.com/Takicegek/altcoin/config"
 )
 
 var defaultCtx = Context{config.Get().CoinName}

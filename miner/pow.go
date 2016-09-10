@@ -5,8 +5,8 @@ import (
 	"math/big"
 	"math/rand"
 
-	"github.com/toqueteos/altcoin/tools"
-	"github.com/toqueteos/altcoin/types"
+	"github.com/Takicegek/altcoin/tools"
+	"github.com/Takicegek/altcoin/types"
 )
 
 // Proof-of-Work

@@ -1,8 +1,8 @@
 package blockchain
 
 import (
-	"github.com/toqueteos/altcoin/tools"
-	"github.com/toqueteos/altcoin/types"
+	"github.com/Takicegek/altcoin/tools"
+	"github.com/Takicegek/altcoin/types"
 )
 
 // Returns the number of transactions that pubkey has broadcast.

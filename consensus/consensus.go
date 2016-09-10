@@ -4,11 +4,11 @@ import (
 	"log"
 	"time"
 
-	"github.com/toqueteos/altcoin/blockchain"
-	"github.com/toqueteos/altcoin/config"
-	"github.com/toqueteos/altcoin/server"
-	"github.com/toqueteos/altcoin/tools"
-	"github.com/toqueteos/altcoin/types"
+	"github.com/Takicegek/altcoin/blockchain"
+	"github.com/Takicegek/altcoin/config"
+	"github.com/Takicegek/altcoin/server"
+	"github.com/Takicegek/altcoin/tools"
+	"github.com/Takicegek/altcoin/types"
 )
 
 func Run(db *types.DB, peers []string) {

@@ -9,10 +9,10 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/toqueteos/altcoin/blockchain"
-	"github.com/toqueteos/altcoin/config"
-	"github.com/toqueteos/altcoin/tools"
-	"github.com/toqueteos/altcoin/types"
+	"github.com/Takicegek/altcoin/blockchain"
+	"github.com/Takicegek/altcoin/config"
+	"github.com/Takicegek/altcoin/tools"
+	"github.com/Takicegek/altcoin/types"
 
 	"github.com/conformal/btcec"
 

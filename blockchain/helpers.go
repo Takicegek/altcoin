@@ -8,8 +8,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/toqueteos/altcoin/tools"
-	"github.com/toqueteos/altcoin/types"
+	"github.com/Takicegek/altcoin/tools"
+	"github.com/Takicegek/altcoin/types"
 )
 
 // median is good for weeding out liars, so long as the liars don't have 51% hashpower.

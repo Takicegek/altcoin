@@ -6,13 +6,13 @@ import (
 	"os"
 	"os/signal"
 
-	"github.com/toqueteos/altcoin/config"
-	"github.com/toqueteos/altcoin/consensus"
-	"github.com/toqueteos/altcoin/gui"
-	"github.com/toqueteos/altcoin/miner"
-	"github.com/toqueteos/altcoin/server"
-	"github.com/toqueteos/altcoin/tools"
-	"github.com/toqueteos/altcoin/types"
+	"github.com/Takicegek/altcoin/config"
+	"github.com/Takicegek/altcoin/consensus"
+	"github.com/Takicegek/altcoin/gui"
+	"github.com/Takicegek/altcoin/miner"
+	"github.com/Takicegek/altcoin/server"
+	"github.com/Takicegek/altcoin/tools"
+	"github.com/Takicegek/altcoin/types"
 
 	"github.com/syndtr/goleveldb/leveldb"
 )

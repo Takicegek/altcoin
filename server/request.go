@@ -1,9 +1,9 @@
 package server
 
 import (
-	"github.com/toqueteos/altcoin/config"
-	"github.com/toqueteos/altcoin/tools"
-	"github.com/toqueteos/altcoin/types"
+	"github.com/Takicegek/altcoin/config"
+	"github.com/Takicegek/altcoin/tools"
+	"github.com/Takicegek/altcoin/types"
 )
 
 type Request struct {

@@ -9,9 +9,9 @@ import (
 	"net"
 	"os"
 
-	"github.com/toqueteos/altcoin/config"
-	"github.com/toqueteos/altcoin/tools"
-	"github.com/toqueteos/altcoin/types"
+	"github.com/Takicegek/altcoin/config"
+	"github.com/Takicegek/altcoin/tools"
+	"github.com/Takicegek/altcoin/types"
 )
 
 const MaxMessageSize = 65536 // 64kb, instead of 60000
