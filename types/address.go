@@ -6,7 +6,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/conformal/btcec"
+	"github.com/PointCoin/btcec"
 )
 
 type Address struct {

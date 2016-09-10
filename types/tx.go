@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/json"
 
-	"github.com/conformal/btcec"
+	"github.com/PointCoin/btcec"
 )
 
 // Tx holds all related info for a transaction

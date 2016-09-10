@@ -14,7 +14,7 @@ import (
 	"github.com/Takicegek/altcoin/tools"
 	"github.com/Takicegek/altcoin/types"
 
-	"github.com/conformal/btcec"
+	"github.com/PointCoin/btcec"
 
 	"github.com/codegangsta/martini"
 	"github.com/martini-contrib/render"

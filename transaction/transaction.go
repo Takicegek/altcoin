@@ -7,7 +7,7 @@ import (
 	"github.com/Takicegek/altcoin/tools"
 	"github.com/Takicegek/altcoin/types"
 
-	"github.com/conformal/btcec"
+	"github.com/PointCoin/btcec"
 )
 
 func SpendVerify(tx *types.Tx, txs []*types.Tx, db *types.DB) bool {

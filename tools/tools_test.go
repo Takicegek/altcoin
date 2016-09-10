@@ -5,7 +5,7 @@ import (
 	"log"
 	"testing"
 
-	"github.com/conformal/btcec"
+	"github.com/PointCoin/btcec"
 	. "github.com/smartystreets/goconvey/convey"
 )
 

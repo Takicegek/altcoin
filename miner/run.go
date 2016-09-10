@@ -11,7 +11,7 @@ import (
 	"github.com/Takicegek/altcoin/tools"
 	"github.com/Takicegek/altcoin/types"
 
-	"github.com/conformal/btcec"
+	"github.com/PointCoin/btcec"
 )
 
 var logger = log.New(os.Stdout, "[miner] ", log.Ldate|log.Ltime|log.Lshortfile)
